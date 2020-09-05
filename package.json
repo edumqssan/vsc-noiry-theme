@@ -1,0 +1,37 @@
+{
+    "name": "noiry-colors",
+    "version": "1.0.0",
+    "displayName": "Noiry Colors",
+    "description": "Official Noiry Colors Theme. Nice contrast with elegant colors.",
+    "publisher": "edumqssan",
+    "license": "GPL-3.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noiry Colors",
+                "uiTheme": "vs-dark",
+                "path": "./theme/noiry-colors.json"
+            }
+        ]
+    },
+    "bugs": {
+		"url": "https://github.com/edumqssan/noiry-colors/issues"
+    },
+    "galleryBanner": {
+		"color": "#25252D",
+		"theme": "dark"
+	},
+    "keywords": [
+        "noiry",
+        "noiry-colors",
+		"dark",
+		"theme",
+		"color-theme"
+    ]
+}
