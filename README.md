@@ -1,4 +1,4 @@
-# Noiry Colors for [Visual Studio Code](http://code.visualstudio.com)
+# Noiry Theme
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
