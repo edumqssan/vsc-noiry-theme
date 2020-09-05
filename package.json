@@ -1,7 +1,7 @@
 {
     "name": "noiry-theme",
-    "version": "1.0.0",
-    "displayName": "Noiry",
+    "version": "1.1.0",
+    "displayName": "Noiry Official",
     "description": "Official Noiry Theme. Nice contrast with elegant colors.",
     "publisher": "edumqssan",
     "license": "Apache-2.0",
@@ -20,9 +20,14 @@
             }
         ]
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/edumqssan/vsc-noiry-theme.git"
+	},
     "bugs": {
 		"url": "https://github.com/edumqssan/vsc-noiry-theme/issues"
     },
+    "icon": "icon.png",
     "galleryBanner": {
 		"color": "#282b33",
 		"theme": "dark"
@@ -33,5 +38,8 @@
 		"dark",
 		"theme",
 		"color-theme"
-    ]
+    ],
+    "__metadata": {
+		"publisherDisplayName": "Noiry Theme"
+	}
 }
