@@ -1,8 +1,8 @@
 {
-    "name": "noiry-colors",
+    "name": "noiry-theme",
     "version": "1.0.0",
-    "displayName": "Noiry Colors",
-    "description": "Official Noiry Colors Theme. Nice contrast with elegant colors.",
+    "displayName": "Noiry",
+    "description": "Official Noiry Theme. Nice contrast with elegant colors.",
     "publisher": "edumqssan",
     "license": "Apache-2.0",
     "engines": {
@@ -14,14 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Noiry Colors",
+                "label": "Noiry",
                 "uiTheme": "vs-dark",
-                "path": "./theme/noiry-colors.json"
+                "path": "./theme/noiry-theme.json"
             }
         ]
     },
     "bugs": {
-		"url": "https://github.com/edumqssan/noiry-colors/issues"
+		"url": "https://github.com/edumqssan/vsc-noiry-theme/issues"
     },
     "galleryBanner": {
 		"color": "#25252D",
