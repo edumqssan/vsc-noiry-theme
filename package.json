@@ -4,7 +4,7 @@
     "displayName": "Noiry Colors",
     "description": "Official Noiry Colors Theme. Nice contrast with elegant colors.",
     "publisher": "edumqssan",
-    "license": "GPL-3.0",
+    "license": "Apache-2.0",
     "engines": {
         "vscode": "^1.48.0"
     },
