@@ -2,7 +2,15 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
-## [1.2.0]
+## [1.4.0]
+
+- Update syntax highlight colors
+- Add Noiry colors to debugIcons
+- Add Noiry colors to symbolic icons
+- Change XML Attribute color to green
+- Add contrast to settings checkbox
+
+### [1.2.0]
 
 - Update syntax highlight colors
 
