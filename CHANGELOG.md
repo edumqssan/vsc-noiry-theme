@@ -2,7 +2,11 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
-## [1.4.0]
+### [1.5.0]
+
+- Update syntax highlight colors
+
+### [1.4.0]
 
 - Update syntax highlight colors
 - Add Noiry colors to debugIcons

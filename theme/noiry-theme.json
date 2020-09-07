@@ -564,7 +564,8 @@
 				"text.html.basic entity.other.attribute-name.html",
 				"text.html.basic entity.other.attribute-name",
 				"text.html entity.other.attribute-name",
-				"text.xml entity.other.attribute-name"
+				"text.xml entity.other.attribute-name",
+				"source.js entity.other.attribute-name"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -577,6 +578,7 @@
 				"text.html entity.name.function"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#78f2e6"
 			}
 		},
