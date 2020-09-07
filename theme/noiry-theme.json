@@ -15,8 +15,8 @@
 
 		"button.background": "#2e2f38",
 		"button.foreground": "#FFFAFF",
-		"button.hoverBackground": "#3c3d49",
-		"button.secondaryBackground": "#3c3d49",
+		"button.hoverBackground": "#3c4049",
+		"button.secondaryBackground": "#3c4049",
 		"button.secondaryHoverBackground": "#555768",
 
 		"breadcrumb.foreground": "#b3b9bf",
@@ -41,6 +41,29 @@
 		"debugTokenExpression.number": "#9a6ce0",
 		"debugTokenExpression.error": "#ba265f",
 
+
+		"debugIcon.breakpointUnverifiedForeground": "#d57cbb",
+		"debugIcon.breakpointCurrentStackframeForeground": "#7ee286",
+		"debugIcon.breakpointStackframeForeground": "#fbdf84",
+		"debugIcon.startForeground": "#5fe36a",
+		"debugIcon.pauseForeground": "#78f2e6",
+		"debugIcon.stopForeground": "#ffa347",
+		"debugIcon.disconnectForeground": "#eeeff2",
+		"debugIcon.restartForeground": "#5fe36a",
+		"debugIcon.stepOverForeground": "#4791ff",
+		"debugIcon.stepIntoForeground": "#4791ff",
+		"debugIcon.stepOutForeground": "#4791ff",	
+		"debugIcon.continueForeground": "#eeeff2",
+		"debugIcon.stepBackForeground": "#4791ff",
+		"debugConsole.infoForeground": "#fbdf84",
+		"debugConsole.warningForeground": "#caa62f",
+		"debugConsole.errorForeground": "#ba265f",
+		"debugConsole.sourceForeground": "#eeeff2",
+		"debugConsoleInputIcon.foreground": "#FFFAFF",
+		"debugExceptionWidget.background": "#22232a",
+		"debugExceptionWidget.border": "#22232a",
+	
+
 		"editor.background": "#282b33",
 		"editor.foreground": "#FFFAFF",
 		"editorLink.activeForeground": "#f14184",
@@ -50,15 +73,15 @@
 		"editorCursor.background": "#282b33",
 		"editorCursor.foreground": "#FFFAFF",
 		
-		"editor.selectionBackground": "#3c3d49",
-		"editor.inactiveSelectionBackground": "#3c3d49",
-		"editor.selectionHighlightBorder": "#3c3d49",
-		"editor.stackFrameHighlightBackground": "#3c3d49",
-		"editor.focusedStackFrameHighlightBackground": "#3c3d49",
+		"editor.selectionBackground": "#3c4049",
+		"editor.inactiveSelectionBackground": "#3c4049",
+		"editor.selectionHighlightBorder": "#3c4049",
+		"editor.stackFrameHighlightBackground": "#3c4049",
+		"editor.focusedStackFrameHighlightBackground": "#3c4049",
 
-		"editor.hoverHighlightBackground": "#3c3d49",
-		"editor.lineHighlightBackground": "#3c3d49",
-		"editor.lineHighlightBorder": "#3c3d49",
+		"editor.hoverHighlightBackground": "#3c4049",
+		"editor.lineHighlightBackground": "#3c4049",
+		"editor.lineHighlightBorder": "#3c4049",
 
 		"editorGroup.emptyBackground": "#2e2f38",
 		"editorGroupHeader.tabsBackground": "#1d1f25",
@@ -79,12 +102,9 @@
 		
 		"editorSuggestWidget.background": "#22232a",
 		"editorSuggestWidget.foreground": "#b3b9bf",
-		"editorSuggestWidget.border": "#2e2f38",
+		"editorSuggestWidget.border": "#3c4049",
 		"editorSuggestWidget.highlightForeground": "#FFFAFF",
 		
-		"debugExceptionWidget.background": "#22232a",
-		"debugExceptionWidget.border": "#22232a",
-
 		"editorMarkerNavigation.background": "#22232a",
 
 		"gitDecoration.addedResourceForeground": "#5fe36a",
@@ -112,7 +132,7 @@
 		"sideBarSectionHeader.foreground": "#FFFAFF",
 		"sideBarSectionHeader.border": "#1d1f25",
 
-		"selection.background": "#35353D",
+		"selection.background": "#3c4049",
 
 		"scrollbar.shadow": "#16181d",
 		"scrollbarSlider.background": "#40424fcc",
@@ -143,6 +163,40 @@
 		"settings.numberInputForeground": "#eeeff2",
 		"settings.numberInputBorder": "#282b33",
 
+		"symbolIcon.arrayForeground": "#eeeff2",
+		"symbolIcon.booleanForeground": "#eeeff2",
+		"symbolIcon.classForeground": "#eeeff2",
+		"symbolIcon.colorForeground": "#eeeff2",
+		"symbolIcon.constantForeground": "#eeeff2",
+		"symbolIcon.constructorForeground": "#eeeff2",
+		"symbolIcon.enumeratorForeground": "#eeeff2",
+		"symbolIcon.enumeratorMemberForeground": "#eeeff2",
+		"symbolIcon.eventForeground": "#eeeff2",
+		"symbolIcon.fieldForeground": "#eeeff2",
+		"symbolIcon.fileForeground": "#eeeff2",
+		"symbolIcon.folderForeground": "#eeeff2",
+		"symbolIcon.functionForeground": "#eeeff2",
+		"symbolIcon.interfaceForeground": "#eeeff2",
+		"symbolIcon.keyForeground": "#eeeff2",
+		"symbolIcon.keywordForeground": "#eeeff2",
+		"symbolIcon.methodForeground": "#eeeff2",
+		"symbolIcon.moduleForeground": "#eeeff2",
+		"symbolIcon.namespaceForeground": "#eeeff2",
+		"symbolIcon.nullForeground": "#eeeff2",
+		"symbolIcon.numberForeground": "#eeeff2",
+		"symbolIcon.objectForeground": "#eeeff2",
+		"symbolIcon.operatorForeground": "#eeeff2",
+		"symbolIcon.packageForeground": "#eeeff2",
+		"symbolIcon.propertyForeground": "#eeeff2",
+		"symbolIcon.referenceForeground": "#eeeff2",
+		"symbolIcon.snippetForeground": "#eeeff2",
+		"symbolIcon.stringForeground": "#eeeff2",
+		"symbolIcon.structForeground": "#eeeff2",
+		"symbolIcon.textForeground": "#eeeff2",
+		"symbolIcon.typeParameterForeground": "#eeeff2",
+		"symbolIcon.unitForeground": "#eeeff2",
+		"symbolIcon.variableForeground": "#eeeff2",
+
 		"tab.unfocusedActiveBackground": "#22242b",
 		"tab.inactiveBackground": "#22242b",
 		"tab.border": "#1d1f25",
@@ -154,10 +208,10 @@
 		"foreground": "#eeeff2",
 		"background": "#282b33",
 
-		"list.activeSelectionBackground": "#2C2B34",
+		"list.activeSelectionBackground": "#31343a",
 		"list.activeSelectionForeground": "#eeeff2",
 		"list.inactiveSelectionBackground":"#2c2b3473",
-		"list.inactiveFocusBackground": "#2C2B34",
+		"list.inactiveFocusBackground": "#2c2f35",
 		"list.dropBackground": "#2b2e36",
 		"list.focusBackground": "#2b2e36",
 		"list.focusForeground": "#eeeff2",
@@ -393,7 +447,9 @@
 			"name": "Symbols",
 			"scope": [
 				"constant.other.symbol",
-				"constant.other.key"
+				"constant.other.key",
+				"source.ts support.constant",
+				"source.js support.constant"
 			],
 			"settings": {
 				"foreground": "#ffa347"
