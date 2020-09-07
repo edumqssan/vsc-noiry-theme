@@ -131,7 +131,7 @@
 		"settings.checkboxForeground": "#eeeff2",
 		"settings.checkboxBorder": "#282b33",
 		"settings.headerForeground": "#FFFAFF",
-		"settings.modifiedItemIndicator": "#ffe957",
+		"settings.modifiedItemIndicator": "#f14184",
 		"settings.dropdownBackground": "#31353f",
 		"settings.dropdownForeground": "#eeeff2",
 		"settings.dropdownBorder": "#282b33",
@@ -503,11 +503,12 @@
 			}
 		},
 		{
-			"name": "HTML Attributes",
+			"name": "HTML Attributes, XML Attributes",
 			"scope": [
 				"text.html.basic entity.other.attribute-name.html",
 				"text.html.basic entity.other.attribute-name",
-				"text.html entity.other.attribute-name"
+				"text.html entity.other.attribute-name",
+				"text.xml entity.other.attribute-name"
 			],
 			"settings": {
 				"fontStyle": "",
