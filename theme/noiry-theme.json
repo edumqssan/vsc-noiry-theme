@@ -127,6 +127,9 @@
 
 		"scm.providerBorder": "#1d1f25",
 
+		"settings.checkboxBackground": "#31353f",
+		"settings.checkboxForeground": "#eeeff2",
+		"settings.checkboxBorder": "#282b33",
 		"settings.headerForeground": "#FFFAFF",
 		"settings.modifiedItemIndicator": "#ffe957",
 		"settings.dropdownBackground": "#31353f",
