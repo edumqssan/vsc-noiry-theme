@@ -2,6 +2,18 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
+## [1.7.7]
+
+- Add Noiry colors to terminal
+- Add editor wordHighlight colors
+- Update activityBar background
+- Update statusBar background and border
+- Update symbolIcon foreground
+- Update panel background
+- Update peekViewEditor match highlight border color
+- Update editorCursor background
+- Update editor selectionHighlightBorder
+
 ### [1.5.0]
 
 - Update syntax highlight colors
