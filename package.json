@@ -1,6 +1,6 @@
 {
     "name": "noiry-theme",
-    "version": "1.7.7",
+    "version": "2.0.0",
     "displayName": "Noiry Official",
     "description": "Official Noiry Theme. Nice contrast with elegant colors.",
     "publisher": "edumqssan",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Noiry",
+                "label": "Noiry Official",
                 "uiTheme": "vs-dark",
                 "path": "./theme/noiry-theme.json"
             }
@@ -29,7 +29,7 @@
     },
     "icon": "icon.png",
     "galleryBanner": {
-		"color": "#282b33",
+		"color": "#282c33",
 		"theme": "dark"
 	},
     "keywords": [
