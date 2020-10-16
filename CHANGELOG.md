@@ -2,7 +2,13 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
-## [1.7.7]
+## [2.0.0]
+
+- Update Noiry colors
+- Update theme label to Noiry Official
+- Update galleryBanner color
+
+### [1.7.7]
 
 - Add Noiry colors to terminal
 - Add editor wordHighlight colors
