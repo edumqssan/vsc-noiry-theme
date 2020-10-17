@@ -2,7 +2,13 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
-## [2.0.0]
+## [2.2.1]
+
+- Fix sidebar border color
+- Update menubar background and border color
+- Update widget shadow color
+
+### [2.0.0]
 
 - Update Noiry colors
 - Update theme label to Noiry Official
