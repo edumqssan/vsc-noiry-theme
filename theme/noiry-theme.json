@@ -14,6 +14,13 @@
 		"window.activeBorder": "#3b404a80",
 		"window.inactiveBorder": "#292d33",
 
+		"textBlockQuote.background": "#575e6b",
+		"textCodeBlock.background": "#575e6b",
+		"textLink.activeForeground": "#3489e5",
+		"textLink.foreground": "#5ba3f1e6",
+		"textPreformat.foreground": "#575e6b",
+		"textSeparator.foreground": "#575e6b",
+
 		"button.background": "#4388efcc",
 		"button.foreground": "#eeeff2",
 		"button.hoverBackground": "#4388efe6",
@@ -284,6 +291,11 @@
 		"debugConsoleInputIcon.foreground": "#FFFAFF",
 		"debugExceptionWidget.background": "#22222a",
 		"debugExceptionWidget.border": "#22222a",
+
+		"welcomePage.background": "#2b2f36",
+		"welcomePage.buttonBackground": "#464c5880",
+		"welcomePage.buttonHoverBackground": "#464c58",
+		"walkThrough.embeddedEditorBackground": "#2b2f36",
 
 		"editor.stackFrameHighlightBackground": "#383d47bf",
 		"editor.focusedStackFrameHighlightBackground": "#383d47",
