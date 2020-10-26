@@ -1,8 +1,8 @@
 {
     "name": "noiry-theme",
-    "version": "2.2.1",
+    "version": "3.0.0",
     "displayName": "Noiry Official",
-    "description": "Official Noiry Theme. Nice contrast with elegant colors.",
+    "description": "Official Noiry Theme. Dark theme with nice contrast.",
     "publisher": "edumqssan",
     "license": "Apache-2.0",
     "engines": {
