@@ -2,7 +2,30 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
-## [2.2.1]
+## [3.0.0]
+- Update editor syntax highlight
+- Update button.background
+- Update button.Hoverbackground
+- Update badge.background
+- Update progressBar.background
+- Update activityBar.dropBorder
+- Update activityBar.foreground
+- Update activityBar.inactiveForeground
+- Update activityBarBadge.background
+- Update activityBar.activeBorder
+- Update activityBar.activeBackground
+- Update activityBar.activeFocusBorder
+- Update tab.activeBorderTop
+- Update editorLink.activeForeground
+- Update editorWidget.resizeBorder
+- Update panelTitle.activeBorder
+- Update terminal.ansiBlue
+- Update notificationsInfoIcon.foreground
+- Update settings.modifiedItemIndicator
+- Update gitDecoration.submoduleResourceForeground
+
+
+### [2.2.1]
 
 - Fix sidebar border color
 - Update menubar background and border color
