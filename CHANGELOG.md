@@ -2,6 +2,10 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
+### [4.1.0]
+- Update noiry-next-theme.json widget.shadow
+- Update noiry-next-theme.json scrollbar.shadow
+
 ### [4.0.0]
 - Add new theme file noiry-next-theme.json
 - Update noiry-theme.json window.activeBorder
