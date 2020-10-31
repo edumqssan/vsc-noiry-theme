@@ -2,7 +2,15 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
-## [3.0.0]
+### [4.0.0]
+- Add new theme file noiry-next-theme.json
+- Update noiry-theme.json window.activeBorder
+- Update noiry-theme.json window.inactiveBorder
+- Update noiry-theme.json activityBar.border
+- Update noiry-theme.json sideBar.border
+- Update noiry-theme.json editor.lineHighlightBorder
+
+### [3.0.0]
 - Update editor syntax highlight
 - Update button.background
 - Update button.Hoverbackground
