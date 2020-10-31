@@ -6,7 +6,7 @@
 		"contrastBorder": "#090a0b00",
 		"focusBorder": "#090a0b00",
 		"foreground": "#f1f2f4",
-		"widget.shadow": "#191b1f",
+		"widget.shadow": "#090a0b",
 		"selection.background": "#363b44",
 		"descriptionForeground": "#f1f2f4",
 		"errorForeground": "#c34b4b",
@@ -41,7 +41,7 @@
 		"input.foreground": "#f1f2f4",
 		"input.placeholderForeground": "#f1f2f4b3",
 
-		"scrollbar.shadow": "#121317",
+		"scrollbar.shadow": "#090a0b",
 		"scrollbarSlider.activeBackground":"#525966b6",
 		"scrollbarSlider.background":"#52596699",
 		"scrollbarSlider.hoverBackground":"#525966b6",
