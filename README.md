@@ -1,6 +1,6 @@
 # Noiry Theme
 
-> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> Dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
 ![Screenshot](https://raw.githubusercontent.com/edumqssan/vsc-noiry-theme/master/screenshot.png)
 
