@@ -2,6 +2,11 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
+### [5.0.0]
+- Update noiry-theme.json colors
+- Rename noiry-next-theme.json to noiry-darkest-theme.json
+- Update noiry-next-theme.json colors
+
 ### [4.1.0]
 - Update noiry-next-theme.json widget.shadow
 - Update noiry-next-theme.json scrollbar.shadow
