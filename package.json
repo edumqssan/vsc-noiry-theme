@@ -1,6 +1,6 @@
 {
     "name": "noiry-theme",
-    "version": "4.1.0",
+    "version": "5.0.0",
     "displayName": "Noiry Official",
     "description": "Official Noiry Theme. Dark theme with nice contrast.",
     "publisher": "edumqssan",
@@ -14,16 +14,15 @@
     "contributes": {
         "themes": [
             {
-                "label": "Noiry Official",
+                "label": "Noiry Dark",
                 "uiTheme": "vs-dark",
                 "path": "./theme/noiry-theme.json"
             },
             {
-                "label": "Noiry Next",
+                "label": "Noiry Darkest",
                 "uiTheme": "vs-dark",
-                "path": "./theme/noiry-next-theme.json"
+                "path": "./theme/noiry-darkest-theme.json"
             }
-            
         ]
     },
     "repository": {
