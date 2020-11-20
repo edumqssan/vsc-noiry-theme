@@ -365,13 +365,15 @@
 		"symbolIcon.unitForeground": "#b3b9bf",
 		"symbolIcon.variableForeground": "#b3b9bf",
 
-		"gitDecoration.addedResourceForeground": "#5fe36a",
-		"gitDecoration.modifiedResourceForeground": "#ffe957",
-		"gitDecoration.deletedResourceForeground": "#9f0440",
-		"gitDecoration.untrackedResourceForeground": "#7ee286",
+		"gitDecoration.addedResourceForeground": "#98fb6a",
+		"gitDecoration.modifiedResourceForeground": "#6a95fb",
+		"gitDecoration.deletedResourceForeground": "#fb746a",
+		"gitDecoration.untrackedResourceForeground": "#6afbd7",
 		"gitDecoration.ignoredResourceForeground": "#5b6171",
 		"gitDecoration.conflictingResourceForeground": "#9a6ce0",
-		"gitDecoration.submoduleResourceForeground": "#477ed1"
+		"gitDecoration.submoduleResourceForeground": "#fee381",
+		"gitDecoration.stageModifiedResourceForeground": "#6a95fb",
+		"gitDecoration.stageDeletedResourceForeground": "#fb746a"
 	},
 	"tokenColors": [
 		{
