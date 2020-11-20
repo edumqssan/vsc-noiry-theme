@@ -2,6 +2,10 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
+### [5.2.0]
+- Update noiry-theme.json Git Colors
+- Update noiry-darkest-theme.json Git Colors
+
 ### [5.0.0]
 - Update noiry-theme.json colors
 - Rename noiry-next-theme.json to noiry-darkest-theme.json
