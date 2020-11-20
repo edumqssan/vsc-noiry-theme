@@ -2,6 +2,33 @@
 
 All notable changes to the "noiry-colors" extension will be documented in this file.
 
+## [6.0.0]
+- Update activityBar colors
+- Update tab.activeBorderTop color
+- Update editorWhiteSpace.foreground color
+- Update editorIndentGuide.background color
+- Add editorOverviewRuler colors
+- Add editorError colors
+- Add editorWarning colors
+- Add editorInfo colors
+- Add editorHint colors
+- Add problemsErrorIcon.foreground color
+- Add problemsWarningIcon.foreground color
+- Add problemsInfoIcon.foreground color
+- Add editorUnnecessaryCode.border color
+- Add editorGutter colors
+- Add diffEditor colors
+- Update statusBar colors
+- Update statusBarItem colors
+- Update menubar.selectionBackground color
+- Update terminal ANSI red colors
+- Update notificationsErrorIcon.foreground color
+- Update merge colors
+- Update debugTokenExpression.error color
+- Update debugConsole.errorForeground color
+- Update gitDecoration for deleted resources colors
+- Update Markdown syntax highlight colors
+
 ### [5.2.0]
 - Update noiry-theme.json Git Colors
 - Update noiry-darkest-theme.json Git Colors
